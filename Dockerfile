@@ -1,5 +1,3 @@
-// Nginx web-server on Ubuntu 16.04 
-
 ARG VERSION=18.04
 
 FROM ubuntu:${VERSION}
